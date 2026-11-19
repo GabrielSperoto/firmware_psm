@@ -1,0 +1,4 @@
+C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Core/Src/adc.c:31:6:MX_ADC1_Init	24	static
+C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Core/Src/adc.c:78:6:MX_ADC2_Init	24	static
+C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Core/Src/adc.c:125:6:HAL_ADC_MspInit	48	static
+C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Core/Src/adc.c:175:6:HAL_ADC_MspDeInit	0	static

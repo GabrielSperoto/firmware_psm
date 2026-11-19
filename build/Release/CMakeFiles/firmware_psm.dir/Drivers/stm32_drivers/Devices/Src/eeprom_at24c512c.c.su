@@ -1,0 +1,6 @@
+C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/eeprom_at24c512c.c:104:12:eeprom_open	0	static
+C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/eeprom_at24c512c.c:265:12:eeprom_erase	0	static
+C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/eeprom_at24c512c.c:281:12:eeprom_close	0	static
+C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/eeprom_at24c512c.c:198:12:eeprom_write	176	static
+C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/eeprom_at24c512c.c:135:12:eeprom_read	56	static
+C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/eeprom_at24c512c.c:298:19:eeprom_at24c512c_register	12	static

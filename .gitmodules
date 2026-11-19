@@ -1,0 +1,3 @@
+[submodule "Drivers/stm32_drivers"]
+	path = Drivers/stm32_drivers
+	url = git@ssh.bitbucket.org:alanpp/firmware_stm32_drivers.git
