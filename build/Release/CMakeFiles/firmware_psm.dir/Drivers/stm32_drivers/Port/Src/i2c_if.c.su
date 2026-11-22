@@ -1,2 +1,2 @@
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if.c:90:19:I2C_IF_Initialize	8	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if.c:153:22:i2c_if_get_priv_by_handle	0	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if.c:90:19:I2C_IF_Initialize	8	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if.c:153:22:i2c_if_get_priv_by_handle	0	static

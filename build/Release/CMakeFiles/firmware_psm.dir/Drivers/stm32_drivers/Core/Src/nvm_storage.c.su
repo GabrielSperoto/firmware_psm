@@ -1,6 +1,6 @@
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/nvm_storage.c:81:17:calculate_crc32	12	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/nvm_storage.c:111:12:read_slot	48	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/nvm_storage.c:244:5:nvm_storage_init	16	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/nvm_storage.c:273:5:nvm_storage_read	72	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/nvm_storage.c:357:5:nvm_storage_write	72	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/nvm_storage.c:457:5:nvm_storage_erase_all	0	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Core/Src/nvm_storage.c:81:17:calculate_crc32	12	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Core/Src/nvm_storage.c:111:12:read_slot	48	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Core/Src/nvm_storage.c:244:5:nvm_storage_init	16	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Core/Src/nvm_storage.c:273:5:nvm_storage_read	72	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Core/Src/nvm_storage.c:357:5:nvm_storage_write	72	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Core/Src/nvm_storage.c:457:5:nvm_storage_erase_all	0	static

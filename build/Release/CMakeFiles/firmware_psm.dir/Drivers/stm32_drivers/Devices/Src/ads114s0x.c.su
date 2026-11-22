@@ -1,6 +1,6 @@
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/ads114s0x.c:462:13:ads114s0x_spi_lock	16	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/ads114s0x.c:435:13:adc_reset	8	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/ads114s0x.c:554:16:ads114s0x_read_reg.constprop	8	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/ads114s0x.c:518:13:ads114s0x_write_reg.constprop	16	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/ads114s0x.c:441:12:adc_read	32	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/ads114s0x.c:775:19:ads114s0x_initialize	24	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Devices/Src/ads114s0x.c:462:13:ads114s0x_spi_lock	16	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Devices/Src/ads114s0x.c:435:13:adc_reset	8	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Devices/Src/ads114s0x.c:554:16:ads114s0x_read_reg.constprop	8	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Devices/Src/ads114s0x.c:518:13:ads114s0x_write_reg.constprop	16	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Devices/Src/ads114s0x.c:441:12:adc_read	32	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Devices/Src/ads114s0x.c:775:19:ads114s0x_initialize	24	static

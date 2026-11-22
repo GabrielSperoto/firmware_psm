@@ -1,7 +1,7 @@
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Inc/os_time.h:66:24:OS_ElapsedMs	16	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Inc/os_time.h:88:20:OS_Expired	8	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if_f4.c:157:16:wait_sr1	24	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if_f4.c:207:13:i2c_if_bus_recover	16	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if_f4.c:286:16:i2c_if_abort.isra	0	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if_f4.c:503:16:i2c_if_transfer	72	static,ignoring_inline_asm
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if_f4.c:642:16:i2c_if_listen	48	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Core/Inc/os_time.h:66:24:OS_ElapsedMs	16	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Core/Inc/os_time.h:88:20:OS_Expired	8	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if_f4.c:157:16:wait_sr1	24	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if_f4.c:207:13:i2c_if_bus_recover	16	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if_f4.c:286:16:i2c_if_abort.isra	0	static
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if_f4.c:503:16:i2c_if_transfer	72	static,ignoring_inline_asm
+/home/speroto/lri_workspace/firmware_psm/Drivers/stm32_drivers/Port/Src/i2c_if_f4.c:642:16:i2c_if_listen	48	static
