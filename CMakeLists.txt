@@ -7,8 +7,6 @@ cmake_minimum_required(VERSION 3.22)
 # User is free to modify the file as much as necessary
 #
 
-#add subdirectories
-add_subdirectory(Drivers/stm32_drivers)
 
 # Setup compiler settings
 set(CMAKE_C_STANDARD 11)
@@ -18,11 +16,12 @@ set(CMAKE_C_EXTENSIONS ON)
 
 # Define the build type
 if(NOT CMAKE_BUILD_TYPE)
-    set(CMAKE_BUILD_TYPE "Debug")
+set(CMAKE_BUILD_TYPE "Debug")
 endif()
 
 # Set the project name
 set(CMAKE_PROJECT_NAME firmware_psm)
+
 
 # Enable compile command to ease indexing with e.g. clangd
 set(CMAKE_EXPORT_COMPILE_COMMANDS TRUE)
@@ -37,16 +36,20 @@ enable_language(C ASM)
 # Create an executable object type
 add_executable(${CMAKE_PROJECT_NAME})
 
+#add subdirectories
+add_subdirectory(Drivers/stm32_drivers)
+
 # Add STM32CubeMX generated sources
 add_subdirectory(cmake/stm32cubemx)
 
 # Link directories setup
 target_link_directories(${CMAKE_PROJECT_NAME} PRIVATE
     # Add user defined library search paths
+
 )
 
 # Add sources to executable
-target_sources(${CMAKE_PROJECT_NAME} PRIVATE
+target_sources(${CMAKE_PROJECT_NAME} PRIVATE 
     # Add user sources here
 )
 
@@ -56,7 +59,7 @@ target_include_directories(${CMAKE_PROJECT_NAME} PRIVATE
     Core/Inc
 )
 
-# Add project symbols (macros)
+# Add project syçõesmbols (macros)
 target_compile_definitions(${CMAKE_PROJECT_NAME} PRIVATE
     # Add user defined symbols
 )

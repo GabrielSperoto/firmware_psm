@@ -9,4 +9,4 @@ C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/
 C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/tca9555.c:308:16:tca9555_read_all	0	static
 C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/tca9555.c:267:16:tca9555_read	0	static
 C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/tca9555.c:191:16:tca9555_setup	24	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/tca9555.c:370:21:tca9555_initialize	32	static
+C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Devices/Src/tca9555.c:370:21:tca9555_initialize	24	static

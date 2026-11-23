@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start ST-LINK GDB Server",
+      "type": "shell",
+      "command": "ST-LINK_gdbserver",
+      "args": [
+        "-d",
+        "-v",
+        "-t",
+        "-p",
+        "61234",
+        "-cp",
+        "C:\\ST\\STM32CubeCLT_1.19.0\\STM32CubeProgrammer\\bin"
+      ],
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
+}

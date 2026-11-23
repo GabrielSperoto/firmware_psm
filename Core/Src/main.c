@@ -106,19 +106,17 @@ int main(void)
   MX_FREERTOS_Init();
 
   /* Start scheduler */
-  osKernelStart();
+  // osKernelStart();
 
   /* We should never get here as control is now taken by the scheduler */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  while (1)
-  {
+    HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_15);
+    HAL_Delay(500);
     /* USER CODE END WHILE */
-    HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_15);
-    HAL_Delay(100);
+
     /* USER CODE BEGIN 3 */
-  }
   /* USER CODE END 3 */
 }
 

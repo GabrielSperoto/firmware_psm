@@ -6,7 +6,7 @@ C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/
 C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/egpio_drv.c:160:13:cb_unlock	8	static
 C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/egpio_drv.c:366:13:egpio_task	104	static
 C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/egpio_drv.c:461:9:EGPIO_Register	12	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/egpio_drv.c:504:9:EGPIO_Init	80	static
+C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/egpio_drv.c:504:9:EGPIO_Init	64	static
 C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/egpio_drv.c:593:6:EGPIO_IsReady	0	static
 C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/egpio_drv.c:598:9:EGPIO_WaitReady	16	static
 C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/egpio_drv.c:619:6:EGPIO_IsOnline	0	static
