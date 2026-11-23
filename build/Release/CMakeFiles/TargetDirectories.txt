@@ -1,9 +1,0 @@
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/build/Release/CMakeFiles/firmware_psm.dir
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/build/Release/CMakeFiles/edit_cache.dir
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/build/Release/CMakeFiles/rebuild_cache.dir
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/build/Release/Drivers/stm32_drivers/CMakeFiles/edit_cache.dir
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/build/Release/Drivers/stm32_drivers/CMakeFiles/rebuild_cache.dir
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/build/Release/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/build/Release/cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/build/Release/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/build/Release/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

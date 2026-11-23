@@ -1,7 +1,0 @@
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/i2c_drv.c:40:13:bus_lock	32	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/i2c_drv.c:101:9:I2C_Transfer	32	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/i2c_drv.c:141:9:I2C_Write	24	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/i2c_drv.c:172:9:I2C_Read	24	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/i2c_drv.c:205:9:I2C_WriteRead	40	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/i2c_drv.c:236:9:I2C_Slave_Listen	40	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Core/Src/i2c_drv.c:268:13:I2C_StrError	0	static

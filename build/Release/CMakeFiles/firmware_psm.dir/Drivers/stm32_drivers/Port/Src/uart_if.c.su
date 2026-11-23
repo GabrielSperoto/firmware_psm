@@ -1,4 +1,0 @@
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Port/Src/uart_if.c:537:13:uart_if_is_tx_busy	0	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Port/Src/uart_if.c:502:13:uart_if_tx_wakeup	8	static,ignoring_inline_asm
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Port/Src/uart_if.c:562:23:uart_if_get_priv_by_handle	0	static
-C:/Users/gabri/OneDrive/Desktop/PSM/firmware/firmware_psm/Drivers/stm32_drivers/Port/Src/uart_if.c:615:20:UART_IF_Initialize	32	static
